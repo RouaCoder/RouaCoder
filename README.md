@@ -1,7 +1,7 @@
 
 ---
 
-# 🕶️ **✨ DARK WEB–STYLED VERSION (OSINT / CTI vibes) ✨**
+# 🕶️ **✨ Hola !! Hackers ✨**
 
 ```markdown
 # 🕶️ Roua Hajri  
