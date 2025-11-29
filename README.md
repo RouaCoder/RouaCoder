@@ -1,4 +1,4 @@
-# 👋  ¡Hola! Hackers :
+# 👋  ¡Hola! Hackers !
 Roua Hajri — Cybersecurity Student  — SOC Apprentice  <br> Defending by understanding how attackers think.<br><br>🔍 Focus: SOC ops • Detection engineering • CTI  <br>🧩 Building: Alerts, dashboards, automation, attack sims  <br>🌐 Exploring: Dark Web ecosystems & ransomware groups  <br>⚙️ Tools: Wazuh · ELK · TheHive · Suricata · Python  <br><br>💡 Interests: Threat intel, incident response, adversary mapping  <br>🚀 Projects: Ransomware simulation | SOC lab | CTI research  <br><br>
 
 
